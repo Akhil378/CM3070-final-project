@@ -1,3 +1,3 @@
 # Final Project
 
-NLP Template, Fake News detection.
+NLP Template, Fake News Detection.
