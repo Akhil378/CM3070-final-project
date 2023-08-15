@@ -1,4 +1,3 @@
-CM3070 - Final Project 
 
 # Fake News Detection: Using Machine Learning to Combat Disinformation.
 
