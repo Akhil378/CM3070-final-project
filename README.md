@@ -1,4 +1,4 @@
-### CM-3070 Final Project 
+### CM-3070 Final Project (NLP)
 
 # Fake News Detection: Using Machine Learning to Combat Disinformation.
 
